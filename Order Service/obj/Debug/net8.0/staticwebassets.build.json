@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2nUYe8KDG/p3k+pD6V6oG7/MfsOpUOIhHtDmQrSfScg=",
+  "Source": "Order Management Service",
+  "BasePath": "_content/Order Management Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

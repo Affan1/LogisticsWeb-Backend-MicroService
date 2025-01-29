@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\LogisticsWeb\\Order Management Service\\Order Management Service.csproj",
-      "projectName": "Order Management Service",
-      "projectPath": "D:\\Projects\\LogisticsWeb\\Order Management Service\\Order Management Service.csproj",
+      "projectUniqueName": "D:\\Projects\\LogisticsWeb\\Order Management Service\\Order Service.csproj",
+      "projectName": "Order Service",
+      "projectPath": "D:\\Projects\\LogisticsWeb\\Order Management Service\\Order Service.csproj",
       "packagesPath": "C:\\Users\\Affan\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\LogisticsWeb\\Order Management Service\\obj\\",
       "projectStyle": "PackageReference",
